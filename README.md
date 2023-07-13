@@ -19,6 +19,9 @@ python3 genCAs.py
 10. Generate the org admin msp
 11. Generate CCP files for Org1
 
+!!!! Its deployed to containers, one as a CA and other as a Organization
+!!!! CA provides certification to Organization
+
 # Where you can find it (ca, msp, tls, .cert, .pem)?
 
 ```
