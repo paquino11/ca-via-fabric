@@ -1,6 +1,6 @@
 # Run?
 ```
-python3 initFabric.py
+python3 genCAs.py
 ```
 
 # What it does?
